@@ -20,7 +20,7 @@
 ---
 
 ### ⚡ About Me
-* **M.Sc. Student in Data Science & Engineering** at **Politecnico di Torino** (2nd Year)[cite: 1].
+* **M.Sc. Student in Data Science & Engineering** at **Politecnico di Torino** (2nd Year).
 * Passionate about **Agentic Architectures**, **Dense & Hybrid Retrieval**, and **Turkish NLP / Morphology**.
 * Focused on **Applied NLP Research**, **Autonomous Multi-Agent Systems**, and **AI-Driven Workflows**.
 * Building production-ready AI systems, exploring new research ideas, and open to collaborations.
@@ -28,14 +28,14 @@
 ---
 
 ### 🔬 Research & Publications
-* **[MALTO at SemEval-2026 Task 13: Detecting Human, AI, and Hybrid Code via Hard Negative Mining and Curriculum-Driven Ensembles](https://aclanthology.org/2026.semeval-1.304/)** *(Proceedings of SemEval 2026)*[cite: 1]
-* **[Long-Context Modeling via GSS-Transformer Hybrid Architecture with Learnable Mixing](https://arxiv.org/abs/2606.16093)** *(arXiv:2606.16093)*[cite: 1]
+* **[MALTO at SemEval-2026 Task 13: Detecting Human, AI, and Hybrid Code via Hard Negative Mining and Curriculum-Driven Ensembles](https://aclanthology.org/2026.semeval-1.304/)** *(Proceedings of SemEval 2026)*
+* **[Long-Context Modeling via GSS-Transformer Hybrid Architecture with Learnable Mixing](https://arxiv.org/abs/2606.16093)** *(arXiv:2606.16093)*
 
 ---
 
 ### 🏆 Highlights & Competitions
-* **1st Place** / 255 teams – *Hepsiburada TEKNOFEST AI Address Resolution Hackathon* (BGE-M3, BM25, RRF & Transformer Fine-tuning)[cite: 1].
-* Active participant in machine learning competitions, RAG benchmarking, and open-source AI initiatives[cite: 1].
+* **1st Place** / 255 teams – *Hepsiburada TEKNOFEST AI Address Resolution Hackathon* (BGE-M3, BM25, RRF & Transformer Fine-tuning).
+* Active participant in machine learning competitions, RAG benchmarking, and open-source AI initiatives.
 
 ---
 
@@ -103,4 +103,4 @@
 
 ---
 
-📫 [arslanhuseyinarda10@gmail.com](mailto:arslanhuseyinarda10@gmail.com)[cite: 1]
+📫 [arslanhuseyinarda10@gmail.com](mailto:arslanhuseyinarda10@gmail.com)
