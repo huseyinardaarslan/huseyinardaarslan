@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/h-611530255/" target="_blank">
+  <a href="https://www.linkedin.com/in/h%C3%BCseyin-arda-arslan-611530255/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.kaggle.com/ardaarslan10" target="_blank">
@@ -23,7 +23,7 @@
 * 🎓 **M.Sc. Student in Data Science & Engineering** at **Politecnico di Torino** (2nd Year).
 * 🤖 Passionate about **Agentic Architectures**, **Dense & Hybrid Retrieval**, and **Turkish NLP / Morphology**.
 * 🔬 Diving deep into **Long-Context Modeling**, **RAG Systems**, and **Competitive ML / Hackathons**.
-* 💡 Always tinkering with new ideas in GenAI, building open-source projects, and collaborating with fellow researchers.
+* 🚀 Building production-ready AI systems, exploring new research ideas, and open to collaborations.
 
 ---
 
@@ -58,12 +58,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
   </a>
 
-  <!-- Big Data & Vector/SQL Databases -->
+  <!-- Big Data & Databases -->
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="spark" width="40" height="40"/>
-  </a>
-  <a href="https://qdrant.tech/" target="_blank" rel="noreferrer">
-    <img src="https://qdrant.tech/images/logo.png" alt="qdrant" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
@@ -86,13 +83,13 @@
 
 ---
 
-### 📊 GitHub Stats & Streaks
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huseyinardaarslan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinardaarslan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=huseyinardaarslan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinardaarslan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="42%" />
 </p>
 
 ---
 
-📫 **Let's connect:** [arslanhuseyinarda10@gmail.com](mailto:arslanhuseyinarda10@gmail.com)
+📫 **:** [arslanhuseyinarda10@gmail.com](mailto:arslanhuseyinarda10@gmail.com)
