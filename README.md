@@ -20,10 +20,22 @@
 ---
 
 ### 💫 About Me
-* 🎓 **M.Sc. Student in Data Science & Engineering** at **Politecnico di Torino** (2nd Year).
+* 🎓 **M.Sc. Student in Data Science & Engineering** at **Politecnico di Torino** (2nd Year)[cite: 1].
 * 🤖 Passionate about **Agentic Architectures**, **Dense & Hybrid Retrieval**, and **Turkish NLP / Morphology**.
-* 🔬 Diving deep into **Long-Context Modeling**, **RAG Systems**, and **Competitive ML / Hackathons**.
+* 🔬 Focused on **Applied NLP Research**, **Autonomous Multi-Agent Systems**, and **AI-Driven Workflows**.
 * 🚀 Building production-ready AI systems, exploring new research ideas, and open to collaborations.
+
+---
+
+### 🔬 Research & Publications
+* 📄 **MALTO at SemEval-2026 Task 13:** Detecting Human, AI, and Hybrid Code via Hard Negative Mining and Curriculum-Driven Ensembles *(Proceedings of SemEval 2026)*[cite: 1].
+* 📄 **Long-Context Modeling via GSS-Transformer Hybrid Architecture with Learnable Mixing** *(arXiv:2606.16093)*[cite: 1].
+
+---
+
+### 🏆 Highlights & Competitions
+* 🥇 **1st Place** / 255 teams – *Hepsiburada TEKNOFEST AI Address Resolution Hackathon* (BGE-M3, BM25, RRF & Transformer Fine-tuning)[cite: 1].
+* 🏅 Active participant in machine learning competitions, RAG benchmarking, and open-source AI initiatives[cite: 1].
 
 ---
 
@@ -83,13 +95,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huseyinardaarslan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyinardaarslan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="42%" />
-</p>
-
----
-
-📫 **:** [arslanhuseyinarda10@gmail.com](mailto:arslanhuseyinarda10@gmail.com)
+📫 arslanhuseyinarda10@gmail.com[cite: 1]
