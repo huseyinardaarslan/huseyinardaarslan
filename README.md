@@ -20,7 +20,7 @@
 ---
 
 ### 💫 About Me
-* 🎓 **M.Sc. Student in Data Science & Engineering** at **Politecnico di Torino** (2nd Year)[cite: 1].
+* 🎓 **M.Sc. Student in Data Science & Engineering** at **Politecnico di Torino** (2nd Year).
 * 🤖 Passionate about **Agentic Architectures**, **Dense & Hybrid Retrieval**, and **Turkish NLP / Morphology**.
 * 🔬 Focused on **Applied NLP Research**, **Autonomous Multi-Agent Systems**, and **AI-Driven Workflows**.
 * 🚀 Building production-ready AI systems, exploring new research ideas, and open to collaborations.
@@ -28,21 +28,21 @@
 ---
 
 ### 🔬 Research & Publications
-* 📄 **MALTO at SemEval-2026 Task 13:** Detecting Human, AI, and Hybrid Code via Hard Negative Mining and Curriculum-Driven Ensembles *(Proceedings of SemEval 2026)*[cite: 1].
-* 📄 **Long-Context Modeling via GSS-Transformer Hybrid Architecture with Learnable Mixing** *(arXiv:2606.16093)*[cite: 1].
+* 📄 **[MALTO at SemEval-2026 Task 13: Detecting Human, AI, and Hybrid Code via Hard Negative Mining and Curriculum-Driven Ensembles](https://aclanthology.org/2026.semeval-1.304/)** *(Proceedings of SemEval 2026)*
+* 📄 **[Long-Context Modeling via GSS-Transformer Hybrid Architecture with Learnable Mixing](https://arxiv.org/abs/2606.16093)** *(arXiv:2606.16093)*
 
 ---
 
 ### 🏆 Highlights & Competitions
-* 🥇 **1st Place** / 255 teams – *Hepsiburada TEKNOFEST AI Address Resolution Hackathon* (BGE-M3, BM25, RRF & Transformer Fine-tuning)[cite: 1].
-* 🏅 Active participant in machine learning competitions, RAG benchmarking, and open-source AI initiatives[cite: 1].
+* 🥇 **1st Place** / 255 teams – *Hepsiburada TEKNOFEST AI Address Resolution Hackathon* (BGE-M3, BM25, RRF & Transformer Fine-tuning).
+* 🏅 Active participant in machine learning competitions, RAG benchmarking, and open-source AI initiatives.
 
 ---
 
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <!-- Languages -->
+  <!-- Core Languages -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
@@ -53,13 +53,21 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
 
-  <!-- GenAI, ML & Frameworks -->
+  <!-- Deep Learning & GenAI -->
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
   </a>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
   </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" alt="langchain" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  </a>
+
+  <!-- ML & Data Science -->
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
@@ -81,7 +89,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   </a>
 
-  <!-- Dev & Ops -->
+  <!-- Dev & Ops Tools -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   </a>
@@ -95,4 +103,4 @@
 
 ---
 
-📫 arslanhuseyinarda10@gmail.com[cite: 1]
+📫 arslanhuseyinarda10@gmail.com
