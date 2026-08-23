@@ -19,7 +19,7 @@
 
 ---
 
-### About Me
+### ⚡ About Me
 * **M.Sc. Student in Data Science & Engineering** at **Politecnico di Torino** (2nd Year)[cite: 1].
 * Passionate about **Agentic Architectures**, **Dense & Hybrid Retrieval**, and **Turkish NLP / Morphology**.
 * Focused on **Applied NLP Research**, **Autonomous Multi-Agent Systems**, and **AI-Driven Workflows**.
@@ -33,7 +33,7 @@
 
 ---
 
-### 🏆 Competitions & Highlights
+### 🏆 Highlights & Competitions
 * **1st Place** / 255 teams – *Hepsiburada TEKNOFEST AI Address Resolution Hackathon* (BGE-M3, BM25, RRF & Transformer Fine-tuning)[cite: 1].
 * Active participant in machine learning competitions, RAG benchmarking, and open-source AI initiatives[cite: 1].
 
@@ -103,4 +103,4 @@
 
 ---
 
-Contact: [arslanhuseyinarda10@gmail.com](mailto:arslanhuseyinarda10@gmail.com)[cite: 1]
+📫 [arslanhuseyinarda10@gmail.com](mailto:arslanhuseyinarda10@gmail.com)[cite: 1]
